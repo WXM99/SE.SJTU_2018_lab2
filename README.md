@@ -1,2 +1,2 @@
 # SE.SJTU_2018_lab2
-silly calculator
+silly calculator with silly GUI
